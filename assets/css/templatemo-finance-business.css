@@ -1,10 +1,4 @@
-/* 
 
-TemplateMo - Finance Business
-
-https://templatemo.com/tm-545-finance-business
-
-*/
 
 body {
   font-family: 'Poppins', sans-serif;
@@ -317,7 +311,7 @@ header .navbar {
 }
 .navbar .navbar-toggler {
 	border-color: #fff;
-	background-color: #fff;	
+	background-color: #fff;
 	height: 36px;
 	outline: none;
 	border-radius: 0px;
@@ -396,6 +390,10 @@ header .navbar {
 
 .Modern-Slider .item-3 .img-fill {
 	background-image: url(../images/slide_03.jpg);
+}
+
+.Modern-Slider .item-4 .img-fill {
+  background-image: url(../images/slide_04.jpg);
 }
 
 .Modern-Slider .NextArrow{
@@ -706,7 +704,7 @@ ul.slick-dots {
 }
 .testimonial-item .inner-content {
 	text-align: center;
-	background-color: #fff;	
+	background-color: #fff;
 	padding: 30px;
 	border-radius: 5px;
 }
